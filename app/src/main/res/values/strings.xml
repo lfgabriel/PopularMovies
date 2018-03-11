@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <!-- Main Menu -->
+    <string name="action_order_by_popularity">Order by Popularity</string>
+    <string name="action_order_by_rating">Order by Rating</string>
+
+    <!-- Preferences -->
+    <string name="movie_list_ordering">order</string>
+    <string name="action_show_favorites">My favorites</string>
+</resources>
